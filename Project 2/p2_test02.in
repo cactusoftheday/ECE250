@@ -1,0 +1,5 @@
+M 10
+READ prepostera.txt
+STOK I am so great the The and And _DONE_
+TOKS 10 11 500 293 -1
+EXIT
