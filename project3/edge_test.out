@@ -1,0 +1,24 @@
+success
+success
+failure
+1
+success
+7.5 5
+failure
+success
+7.5 6
+no point exists
+point exists
+illegal argument
+illegal argument
+7.5 6 
+no points within range
+success
+success
+success
+success
+success
+8
+5 5
+4.9995 5
+4.9996 5 4.9995 5 4.9999 5 4.9998 5 4.9997 5 
